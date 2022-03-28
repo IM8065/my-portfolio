@@ -1,0 +1,9 @@
+.recaptcha {
+  background-color: transparent;
+  border: none;
+}
+
+.small {
+  max-height: 40vh;
+  object-fit: contain;
+}
