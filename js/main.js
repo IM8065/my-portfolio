@@ -154,8 +154,8 @@
   $(window).on("load", function () {
     /*----------- Preloader -----------*/
 
-    $(".preloader-icon").fadeOut(400);
-    $(".preloader").delay(500).fadeOut("slow");
+    // $(".preloader-icon").fadeOut(400);
+    // $(".preloader").delay(500).fadeOut("slow");
 
     /*----------- Portfolio -----------*/
 
